@@ -8,7 +8,7 @@
     <li>Step 2: Open the app and select "START" to begin scanning the QR codes.</li>
     <li>Step 3: Scan the QR code for the molecule or orbital you want to view.</li>
     <li>Step 4: Explore the 3D model of the molecule or orbital that hovers over the QR Code. Rotate, zoom, and explore the structure from different angles.</li></ul> 
-    <img src="MoleculAR.png" alt="MoleculAR User Interface" title="MoleculAR How-to" width="100" style="display: block; margin: auto;">
+    <img src="MoleculAR.png" alt="MoleculAR User Interface" title="MoleculAR How-to" width="200" style="display: block; margin: auto;">
 
   
   <p>Thank you for choosing MoleculAR! We welcome any feedback you may have on the app and its use in chemistry education. We hope that MoleculAR will be a valuable tool for educators and students alike.</p>
