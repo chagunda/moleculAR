@@ -9,7 +9,7 @@
     <li>Step 3: Scan the QR code for the molecule or orbital you want to view.</li>
     <li>Step 4: Explore the 3D model of the molecule or orbital that hovers over the QR Code. Rotate, zoom, and explore the structure from different angles.</li>
   </ul> 
-[Visit Bing](https://www.w3schools.io/file/markdown-links/)
+
     
 <div style="text-align: center;">
   <img src="MoleculAR.png" alt="MoleculAR User Interface" title="MoleculAR How-to" style="display: block; margin-left: auto; margin-right: auto; width: 50; box-shadow: 10 10 5 grey;">
@@ -21,7 +21,7 @@
   <hr>
   <footer>
     <p>App development by Julia Levy. Github repository by [Ian C. Chagunda](https://twitter.com/ian_chagunda).</p> 
-    <p>For feedback or questions, please email [Prof. Dr. J. Scott McIndoe](https://web.uvic.ca/~mcindoe/) at [mcindoe@uvic.ca](mailto:mcindoe@uvic.ca).</p> 
+    <p>For feedback or questions, please email [Prof. Dr. J. Scott McIndoe](https://web.uvic.ca/~mcindoe/) at mcindoe@uvic.ca.</p> 
     <p>To learn more, view the journal article on this project at https://doi.org/123.45.6789.</p>
   </footer>
 
