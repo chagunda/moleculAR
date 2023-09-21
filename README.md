@@ -33,3 +33,9 @@
     <p>To learn more, view the journal article on this project at https://doi.org/123.45.6789.</p>
   </footer>
 
+<footer>
+  <p>App development by Julia Levy. Github repository by <a href="https://twitter.com/ian_chagunda">Ian C. Chagunda</a>.</p>
+  <p>For feedback or questions, please email <a href="mailto:mcindoe@uvic.ca">Prof. Dr. J. Scott McIndoe</a> at <a href="https://web.uvic.ca/~mcindoe/">mcindoe@uvic.ca</a>.</p>
+  <p>To learn more, view the journal article on this project at <a href="https://doi.org/123.45.6789">https://doi.org/123.45.6789</a>.</p>
+</footer>
+
