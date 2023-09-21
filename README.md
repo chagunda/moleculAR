@@ -15,10 +15,11 @@
   <a href="https://github.com/chagunda/moleculAR/raw/main/QRCodes.zip">Download QR Codes HERE</a>
 </div>
 
-
+<p>
 <div style="text-align: center;">
   <img src="MoleculAR.png" alt="MoleculAR User Interface" title="MoleculAR How-to" style="display: block; margin-left: auto; margin-right: auto; width: 50; box-shadow: 10 10 5 grey;">
 </div>
+</p>
 
   
 <p>Thank you for choosing MoleculAR! We welcome any feedback you may have on the app and its use in chemistry education. We hope that MoleculAR will be a valuable tool for educators and students alike.</p>
