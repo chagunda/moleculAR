@@ -13,7 +13,7 @@
 
 <div style="text-align: center;">
   <a href="https://github.com/chagunda/moleculAR/raw/main/QRCodes.zip" class="centered-link">
-    <span style="font-weight: bold; font-size: 1.1;">Download QR Codes HERE</span>
+    <span style="font-weight: bold; font-size: 1.5;">Download QR Codes HERE</span>
   </a>    
 </div>
 
