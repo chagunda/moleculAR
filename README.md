@@ -11,7 +11,7 @@
 
     
 <div style="text-align: center;">
-  <img src="MoleculAR.png" alt="MoleculAR User Interface" title="MoleculAR How-to" style="display: block; margin-left: auto; margin-right: auto; width: 50; border: 2 solid black; border-radius: 5; box-shadow: 10 10 5 grey;">
+  <img src="MoleculAR.png" alt="MoleculAR User Interface" title="MoleculAR How-to" style="display: block; margin-left: auto; margin-right: auto; width: 20; border: 2 solid black; border-radius: 5; box-shadow: 10 10 5 grey;">
 </div>
 
   
