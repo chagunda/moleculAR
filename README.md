@@ -14,9 +14,9 @@ MoleculAR: An Augmented Reality Application for Understanding 3D Geometry
   
   <p>Thank you for choosing MoleculAR! We welcome any feedback you may have on the app and its use in chemistry education.</p>
   
-  <footer>App Development by Julia Levy. 
-    Github Pages Repository by Ian C. Chagunda. 
-    For feedback or questions, please email Prof. J. Scott McIndoe at <mcindoe@uvic.ca>. 
+  <footer>App development by Julia Levy. 
+    Github repository by Ian C. Chagunda. 
+    For feedback or questions, please email Prof. Dr. J. Scott McIndoe at <mcindoe@uvic.ca>. 
     To view the source code or contribute to this project, please visit <a href=“https://github.com/<chagunda>/<moleculAR>”>https://github.com/<chagunda>/<moleculAR></a> 
     To view the journal article on this project, please visit <a href=“https://doi.org/123.45.6789”>DOI:123.45.6789</a>.</footer>
 </body>
