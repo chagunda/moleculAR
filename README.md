@@ -1,6 +1,6 @@
 
 <p>Welcome to MoleculAR, an augmented reality application that helps students understand 3D geometry in chemistry!
-  All the QR codes for the structures available in the app, are free to download here.
+  All the QR codes for the structures available in the app, are free to download [HERE](https://github.com/chagunda/moleculAR/raw/main/QRCodes.zip).
   You can use these QR codes in any learning capacity, whether you're a curious user looking to explore molecular geometry or an educator wishing to incorporate MoleculAR into your course syllabus.
   Here's a quick guide on how to download and use the app:
 </p>
@@ -10,7 +10,7 @@
     <li>Step 4: Explore the 3D model of the molecule or orbital that hovers over the QR Code. Rotate, zoom, and explore the structure from different angles.</li>
   </ul> 
 
-[Download QRCodes.zip](https://github.com/chagunda/moleculAR/raw/main/QRCodes.zip)
+
 
 <div style="text-align: center;">
   <img src="MoleculAR.png" alt="MoleculAR User Interface" title="MoleculAR How-to" style="display: block; margin-left: auto; margin-right: auto; width: 50; box-shadow: 10 10 5 grey;">
