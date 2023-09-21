@@ -10,7 +10,10 @@
     <li>Step 4: Explore the 3D model of the molecule or orbital that hovers over the QR Code. Rotate, zoom, and explore the structure from different angles.</li>
   </ul> 
 
-[Download QR Codes HERE](https://github.com/chagunda/moleculAR/raw/main/QRCodes.zip)
+
+<div style="text-align: center;">
+  <a href="https://github.com/chagunda/moleculAR/raw/main/QRCodes.zip">Download QR Codes HERE</a>
+</div>
 
 
 <div style="text-align: center;">
