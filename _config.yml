@@ -7,8 +7,8 @@ plugins:
 title: [moleculAR]
 description: [An Augmented Reality Application for Understanding 3D Geometry]
 
-#show_downloads: [https://github.com/chagunda/moleculAR/blob/main/QRCodes.zip]
-show_downloads: [true]
+show_downloads: [https://github.com/chagunda/moleculAR/blob/main/QRCodes.zip]
+#show_downloads: [true]
 github:
   zip_url: https://github.com/chagunda/moleculAR/blob/main/QRCodes.zip
   another_url: https://github.com/chagunda/moleculAR/blob/main/QRCodes.zip
