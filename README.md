@@ -27,15 +27,10 @@
 <p>Thank you for choosing MoleculAR! We welcome any feedback you may have on the app and its use in chemistry education. We hope that MoleculAR will be a valuable tool for educators and students alike.</p>
 
   <hr>
-  <footer>
-    <p>App development by Julia Levy. Github repository by [Ian20%C.20%Chagunda](https://twitter.com/ian_chagunda).</p> 
-    <p>For feedback or questions, please email [Prof. Dr. J. Scott McIndoe](https://web.uvic.ca/~mcindoe/) at [mcindoe@uvic.ca](mailto:mcindoe@uvic.ca).</p> 
-    <p>To learn more, view the journal article on this project at https://doi.org/123.45.6789.</p>
-  </footer>
 
 <footer>
   <p>App development by Julia Levy. Github repository by <a href="https://twitter.com/ian_chagunda">Ian C. Chagunda</a>.</p>
-  <p>For feedback or questions, please email <a href="mailto:mcindoe@uvic.ca">Prof. Dr. J. Scott McIndoe</a> at <a href="https://web.uvic.ca/~mcindoe/">mcindoe@uvic.ca</a>.</p>
+  <p>For feedback or questions, please email <a href="mailto:mcindoe@uvic.ca">Prof. Dr. J. Scott McIndoe</a> or visit <a href="https://web.uvic.ca/~mcindoe/">web.uvic.ca/~mcindoe</a>.</p>
   <p>To learn more, view the journal article on this project at <a href="https://doi.org/123.45.6789">https://doi.org/123.45.6789</a>.</p>
 </footer>
 
