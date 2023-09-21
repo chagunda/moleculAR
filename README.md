@@ -13,7 +13,7 @@ MoleculAR: An Augmented Reality Application for Understanding 3D Geometry
     <li>Step 4: Explore the 3D model of the molecule or orbital that hovers over the QR Code. Rotate, zoom, and explore the structure from different angles.</li></ul> 
   
   <p>Thank you for choosing MoleculAR! We welcome any feedback you may have on the app and its use in chemistry education.</p>
-  
+  ---
   <footer>
     <p>App development by Julia Levy. Github repository by Ian C. Chagunda.</p> 
     <p>For feedback or questions, please email Prof. Dr. J. Scott McIndoe at mcindoe@uvic.ca.</p> 
