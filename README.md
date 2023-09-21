@@ -20,7 +20,7 @@
 
   <hr>
   <footer>
-    <p>App development by Julia Levy. Github repository by "Ian C. Chagunda"(https://twitter.com/ian_chagunda).</p> 
+    <p>App development by Julia Levy. Github repository by [Ian C. Chagunda](https://twitter.com/ian_chagunda).</p> 
     <p>For feedback or questions, please email [Prof. Dr. J. Scott McIndoe](https://web.uvic.ca/~mcindoe/) at mcindoe@uvic.ca.</p> 
     <p>To learn more, view the journal article on this project at https://doi.org/123.45.6789.</p>
   </footer>
