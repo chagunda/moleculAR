@@ -4,7 +4,7 @@ MoleculAR: An Augmented Reality Application for Understanding 3D Geometry
 
 
 <p>Welcome to MoleculAR, an augmented reality application that helps students understand 3D geometry in chemistry!
-  We hope that MoleculAR will be a valuable tool for educators and students alike. To make it even easier to use, we've made all the QR codes for the structures available in the app free to download [HERE] (/QR Codes). 
+  We hope that MoleculAR will be a valuable tool for educators and students alike. To make it even easier to use, we've made all the QR codes for the structures available in the app free to download [HERE] (moleculAR/QR Codes/). 
   You can use these QR codes in any learning capacity, whether you're a curious user looking to explore molecular geometry or an educator wishing to incorporate MoleculAR into your course syllabus.
   Here's a quick guide on how to download and use the app:
 </p>
