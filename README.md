@@ -10,7 +10,7 @@
     <li>Step 4: Explore the 3D model of the molecule or orbital that hovers over the QR Code. Rotate, zoom, and explore the structure from different angles.</li></ul> 
     
 <div style="text-align: center;">
-  <img src="MoleculAR.png" alt="MoleculAR User Interface" title="MoleculAR How-to" style="display: block; margin-left: auto; margin-right: auto; width: 50%; border: 5px solid black; border-radius: 10px; box-shadow: 10px 10px 5px grey;">
+  !<img src="MoleculAR.png" alt="MoleculAR User Interface" title="MoleculAR How-to" style="display: block; margin-left: auto; margin-right: auto; width: 50%; border: 5px solid black; border-radius: 10px; box-shadow: 10px 10px 5px grey;">
 </div>
   
   <p>Thank you for choosing MoleculAR! We welcome any feedback you may have on the app and its use in chemistry education. We hope that MoleculAR will be a valuable tool for educators and students alike.</p>
