@@ -6,3 +6,6 @@ plugins:
 
 title: [moleculAR]
 description: [An Augmented Reality Application for Understanding 3D Geometry]
+
+show_downloads: [true]
+
