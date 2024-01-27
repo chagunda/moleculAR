@@ -15,10 +15,11 @@
 <div style="text-align: center;">
   <a href="https://github.com/chagunda/moleculAR/raw/main/QRCodes.zip" class="centered-link">
     <span style="font-weight: bold; font-size: 1.5;">Download QRCodes HERE</span>
-  </a>    
+  </a> 
+A reference for all available structure and their QR Codes can be found <a href="https://docs.google.com/spreadsheets/d/1rp0W7Dvag5nanlVGZodpaoh631qYNTDIzY4KswBUSiw/edit?usp=sharing" class="centered-link">
+    <span style="font-weight: bold; font-size: 1.5;">HERE</span>
+  </a>
 </div>
-
-A reference for all available QR Codes and sructure can be found HERE.
 
 <p>
 <div style="text-align: center;">
