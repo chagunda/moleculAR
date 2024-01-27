@@ -18,6 +18,8 @@
   </a>    
 </div>
 
+A reference for all available QR Codes and sructure can be found HERE.
+
 <p>
 <div style="text-align: center;">
   <img src="MoleculAR.png" alt="MoleculAR User Interface" title="MoleculAR How-to" style="display: block; margin-left: auto; margin-right: auto; width: 50; box-shadow: 10 10 5 grey;">
