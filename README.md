@@ -11,12 +11,6 @@
     <li>Step 4: Explore the 3D model that hovers over the QR Code. Rotate, zoom, and explore the structure from different angles.</li>
   </ul> 
 
-<p>
-<div style="text-align: center;">
-  <img src="MoleculAR.png" alt="MoleculAR User Interface" title="MoleculAR How-to" style="display: block; margin-left: auto; margin-right: auto; width: 50; box-shadow: 10 10 5 grey;">
-</div>
-</p>
-
 <div style="text-align: center;">
 Download QRCodes <a href="https://github.com/chagunda/moleculAR/raw/main/QRCodes.zip" class="centered-link">
     <span style="font-weight: bold; font-size: 1.5;">HERE</span>
@@ -28,7 +22,13 @@ A reference for all available structure can be found <a href="https://docs.googl
     <span style="font-weight: bold; font-size: 1.5;">HERE</span>
   </a>
 </div>
-  
+
+<p>
+<div style="text-align: center;">
+  <img src="MoleculAR.png" alt="MoleculAR User Interface" title="MoleculAR How-to" style="display: block; margin-left: auto; margin-right: auto; width: 50; box-shadow: 10 10 5 grey;">
+</div>
+</p>
+
 <p>Thank you for choosing MoleculAR! We welcome any feedback you may have on the app and its use in chemistry education. We hope that MoleculAR will be a valuable tool for educators and students alike.</p>
 
   <hr>
