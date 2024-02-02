@@ -1,4 +1,4 @@
-layout: page
+# layout: page
 title: "Privacy Policy"
 permalink: https://chagunda.github.io/moleculAR/PrivacyPolicy
 
@@ -12,10 +12,10 @@ If you choose to use my Service, then you agree to the collection and use of inf
 
 The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible at MoleculAR unless otherwise defined in this Privacy Policy.
 
-Information Collection and Use
+**Information Collection and Use**
 
 For this service, we collect no data.
 
 The app does use third party services that may collect information used to identify you.
 
-Link to privacy policy of third party service providers used by the app
+Link to privacy policy of third party service providers used by the app: APPLE PRIVACY POLICY
