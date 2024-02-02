@@ -14,8 +14,8 @@
 <div style="text-align: center;">
 Download QRCodes <a href="https://github.com/chagunda/moleculAR/raw/main/QRCodes.zip" class="centered-link">
     <span style="font-weight: bold; font-size: 1.5;">HERE</span>
-  .</a> 
-</div>
+  </a> 
+</div>.
 
 <div style="text-align: center;">  
 A reference for all available structure can be found <a href="https://docs.google.com/spreadsheets/d/1rp0W7Dvag5nanlVGZodpaoh631qYNTDIzY4KswBUSiw/edit?usp=sharing" class="centered-link">
