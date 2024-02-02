@@ -2,11 +2,6 @@
 <strong>Privacy Policy</strong>
 </div>
 
-<div style="text-align: center;">  
-   Here <span style="font-weight: bold; font-size: 2.5;">Privacy Policy</span>
-
-</div>
-
 <p>MoleculAR built the MoleculAR app as a Free app. This SERVICE is provided by MoleculAR at no cost and is intended for use as is.</p>
 
 <p>This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.</p>
