@@ -36,6 +36,8 @@ The Privacy Policy for MoleculAR can be found <a href="https://chagunda.github.i
 </p>
 
 <p>Thank you for choosing MoleculAR! We welcome any feedback you may have on the app and its use in chemistry education. We hope that MoleculAR will be a valuable tool for educators and students alike.</p>
+</p>For any requests and suggestion for molecules to add to the app, please contact us at <a href="mailto:chemar@uvic.ca">ChemAR</a></p>
+
 
   <hr>
 
