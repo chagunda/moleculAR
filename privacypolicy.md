@@ -83,4 +83,4 @@
 <strong>Contact Us</strong>
 </div>
 
-<p>If you have any questions or suggestions about the Privacy Policy, do not hesitate to contact us at <i>chemar@uvic.ca</i>.
+<p>If you have any questions or suggestions about the Privacy Policy, do not hesitate to contact us at <a href="mailto:chemar@uvic.ca">ChemAR</a></p>
