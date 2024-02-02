@@ -1,5 +1,5 @@
 <div style="text-align: left;">
-<strong>Privacy Policy</strong><
+<strong>Privacy Policy</strong>
 </div>
 
 <p>MoleculAR built the MoleculAR app as a Free app. This SERVICE is provided by MoleculAR at no cost and is intended for use as is.</p>
@@ -19,9 +19,9 @@
 
 <p>The app does use third party services that may collect information used to identify you.</p>
 
-<p>Privacy policies of third party service providers used by the app: </p>
+<p>Privacy policies of third party service providers used by the app:
  <li><a href="https://www.apple.com/legal/privacy/en-ww/">Apple Privacy Policy</a></li>
- <li><a href="https://policies.google.com/privacy?hl=en-US">Google Privacy & Terms</a></li>
+ <li><a href="https://policies.google.com/privacy?hl=en-US">Google Privacy & Terms</a></li></p>
 <hr>
 
 <div style="text-align: left;">
