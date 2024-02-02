@@ -23,6 +23,12 @@ A reference for all available structure can be found <a href="https://docs.googl
   </a>
 </div>
 
+<div style="text-align: center;">  
+The Privacy Policy for moleculAR can be found <a href="https://chagunda.github.io/moleculAR/privacypolicy" class="centered-link">
+    <span style="font-weight: bold; font-size: 1.5;">HERE</span>
+  </a>
+</div>
+
 <p>
 <div style="text-align: center;">
   <img src="MoleculAR.png" alt="MoleculAR User Interface" title="MoleculAR How-to" style="display: block; margin-left: auto; margin-right: auto; width: 50; box-shadow: 10 10 5 grey;">
