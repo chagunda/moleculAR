@@ -15,9 +15,7 @@
 <strong>Information Collection and Use</strong>
 </div>
 
-<p>For this service, we collect no data. The app does use third party services that may collect information used to identify you.</p>
-
-<p>Privacy policies of third party service providers used by the app:
+<p>For this service, we collect no data. The app does use third party services that may collect information used to identify you. Privacy policies of third party service providers used by the app can be found here:
  <li><a href="https://www.apple.com/legal/privacy/en-ww/">Apple Privacy Policy</a></li>
  <li><a href="https://policies.google.com/privacy?hl=en-US">Google Privacy & Terms</a></li></p>
 <hr>
