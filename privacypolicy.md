@@ -1,4 +1,4 @@
-<div style="text-align: center;bold">
+<div style="text-align: center;bold;">
 **Privacy Policy**
 </div>
 
