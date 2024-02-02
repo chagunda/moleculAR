@@ -2,26 +2,31 @@
 <strong>Privacy Policy</strong>
 </div>
 
-<p>MoleculAR built the MoleculAR app as a Free app. This SERVICE is provided by MoleculAR at no cost and is intended for use as is.
+<p>MoleculAR built the MoleculAR app as a Free app. This SERVICE is provided by MoleculAR at no cost and is intended for use as is.</p>
 
-This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
+<p>This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.</p>
 
-If you choose to use my Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that I collect is used for providing and improving the Service. I will not use or share your information with anyone except as described in this Privacy Policy.
+<p>If you choose to use my Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that I collect is used for providing and improving the Service. I will not use or share your information with anyone except as described in this Privacy Policy.</p>
 
-The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible at MoleculAR unless otherwise defined in this Privacy Policy.</p>
+<p>The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible at MoleculAR unless otherwise defined in this Privacy Policy.</p>
 <hr>
 
 <div style="text-align: center;">
 <strong>Information Collection and Use</strong>
 </div>
 
-For this service, we collect no data.
+<p>For this service, we collect no data.</p>
 
-The app does use third party services that may collect information used to identify you.
+<p>The app does use third party services that may collect information used to identify you.</p>
 
-Privacy policies of third party service providers used by the app: 
+<p>Privacy policies of third party service providers used by the app: 
 * <a href="https://www.apple.com/legal/privacy/en-ww/">Apple Privacy Policy</a>
-* <a href="https://policies.google.com/privacy?hl=en-US">Google Privacy & Terms</a>
+* <a href="https://policies.google.com/privacy?hl=en-US">Google Privacy & Terms</a></p>
+<hr>
+
+<div style="text-align: center;">
+<strong>Log Data</strong>
+</div>
 
 **Log Data**
 
