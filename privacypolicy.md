@@ -76,7 +76,7 @@
 
 <p>I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page.</p>
 
-<p>This policy is effective as of <strong>2024-02-01</strong></p>
+<p>This policy is effective as of <strong>2024-02-01</strong>.</p>
 <hr>
 
 <div style="text-align: left;">
