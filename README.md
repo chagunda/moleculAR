@@ -24,7 +24,7 @@ A reference for all available structure can be found <a href="https://docs.googl
 </div>
 
 <div style="text-align: center;">  
-The Privacy Policy for moleculAR can be found <a href="https://chagunda.github.io/moleculAR/privacypolicy" class="centered-link">
+The Privacy Policy for MoleculAR can be found <a href="https://chagunda.github.io/moleculAR/privacypolicy" class="centered-link">
     <span style="font-weight: bold; font-size: 1.5;">HERE</span>
   </a>
 </div>
