@@ -2,7 +2,7 @@ layout: page
 title: "Privacy Policy"
 permalink: https://chagunda.github.io/moleculAR/PrivacyPolicy
 
-Privacy Policy
+#Privacy Policy
 
 MoleculAR built the MoleculAR app as a Free app. This SERVICE is provided by MoleculAR at no cost and is intended for use as is.
 
