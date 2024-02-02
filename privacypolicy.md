@@ -1,5 +1,5 @@
 <div style="text-align: left;">
-<u><strong>Privacy Policy</strong></u>
+<strong>Privacy Policy</strong><
 </div>
 
 <p>MoleculAR built the MoleculAR app as a Free app. This SERVICE is provided by MoleculAR at no cost and is intended for use as is.</p>
@@ -11,7 +11,7 @@
 <p>The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible at MoleculAR unless otherwise defined in this Privacy Policy.</p>
 <hr>
 
-<div style="text-align: center;">
+<div style="text-align: left;">
 <strong>Information Collection and Use</strong>
 </div>
 
