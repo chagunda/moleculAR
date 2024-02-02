@@ -3,7 +3,7 @@
 </div>
 
 <div style="text-align: center;">  
-    <span style="font-weight: bold; font-size: 2.5;">Privacy Policy</span>
+   Here <span style="font-weight: bold; font-size: 2.5;">Privacy Policy</span>
 
 </div>
 
