@@ -1,4 +1,6 @@
+<div style="text-align: center;">
 **Privacy Policy**
+</div>
 
 MoleculAR built the MoleculAR app as a Free app. This SERVICE is provided by MoleculAR at no cost and is intended for use as is.
 
