@@ -2,20 +2,20 @@
 <strong>Privacy Policy</strong>
 </div>
 
-<p>MoleculAR built the MoleculAR app as a Free app. This SERVICE is provided by MoleculAR at no cost and is intended for use as is.</p>
+<p>MoleculAR has been developed as a Free app. This SERVICE is provided by MoleculAR at no cost and is intended for use as is.</p>
 
-<p>This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.</p>
+<p>This page aims to inform visitors regarding MoleculAR's policies concerning the collection, use, and disclosure of Personal Information for individuals who choose to use the Service.</p>
 
-<p>If you choose to use my Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that I collect is used for providing and improving the Service. I will not use or share your information with anyone except as described in this Privacy Policy.</p>
+<p>Users who opt to use the Service agree to the collection and use of information as outlined in this policy. The Personal Information collected is utilized for providing and enhancing the Service. MoleculAR pledges not to use or share any user information except as explicitly described in this Privacy Policy.</p>
 
-<p>The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible at MoleculAR unless otherwise defined in this Privacy Policy.</p>
+<p>The terminology used in this Privacy Policy aligns with the meanings in our Terms and Conditions, accessible at MoleculAR, unless specifically defined differently in this Privacy Policy.</p>
 <hr>
 
 <div style="text-align: left;">
 <strong>Information Collection and Use</strong>
 </div>
 
-<p>For this service, we collect no data. The app does use third party services that may collect information used to identify you. Privacy policies of third party service providers used by the app can be found here:
+<p>For this service, MoleculAR does not collect any data. However, please note that the app may utilize third-party services that could collect information to identify you. The privacy policies of third-party service providers used by the app can be found here:
  <li><a href="https://www.apple.com/legal/privacy/en-ww/">Apple Privacy Policy</a></li>
  <li><a href="https://policies.google.com/privacy?hl=en-US">Google Privacy & Terms</a></li></p>
 <hr>
@@ -24,63 +24,61 @@
 <strong>Log Data</strong>
 </div>
 
-<p>I want to inform you that whenever you use my Service, in a case of an error in the app I collect data and information (through third party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing my Service, the time and date of your use of the Service, and other statistics.</p>
+<p>When using the Service, in the event of an error in the app, MoleculAR collects data and information (through third-party products) on the user's phone, referred to as Log Data. This Log Data may encompass information such as the device's Internet Protocol (“IP”) address, device name, operating system version, app configuration during Service use, time and date of Service utilization, and other relevant statistics.</p>
 <hr>
 
 <div style="text-align: left;">
 <strong>Cookies</strong>
 </div>
 
-<p>Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to your browser from the websites that you visit and are stored on your device’s internal memory.</p>
-
-<p>This Service does not use these “cookies” explicitly. However, the app may use third party code and libraries that use “cookies” to collect information and improve their services. You have the option to either accept or refuse these cookies and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.</p>
+<p>Cookies, files containing a small amount of data commonly used as anonymous unique identifiers, are not explicitly used by this Service. However, the app may incorporate third-party code and libraries that employ “cookies” to collect information and enhance their services. Users have the option to accept or refuse these cookies and can be notified when a cookie is sent to their device. Refusing cookies may impact the ability to use certain portions of the Service.</p>
 <hr>
 
 <div style="text-align: left;">
 <strong>Service Providers</strong>
 </div>
 
-<p>I may employ third-party companies and individuals due to the following reasons:
+<p>MoleculAR may engage third-party companies and individuals for the following reasons:
 <li>To facilitate our Service;</li>
 <li>To provide the Service on our behalf;</li>
 <li>To perform Service-related services; or</li>
-<li>To assist us in analyzing how our Service is used.</li></p>
+<li>To assist in analyzing how the Service is used.</li></p>
 
-<p>I want to inform users of this Service that these third parties have access to your Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.</p>
+<p>Users should be aware that these third parties have access to their Personal Information to fulfill assigned tasks. However, they are obligated not to disclose or use this information for any purpose other than the specified tasks.</p>
 <hr>
 
 <div style="text-align: left;">
 <strong>Security</strong>
 </div>
 
-<p>I value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and I cannot guarantee its absolute security.</p>
+<p>MoleculAR values the trust placed in providing Personal Information and strives to use commercially acceptable means to protect it. However, users should be aware that no transmission method over the internet or electronic storage is 100% secure and reliable. MoleculAR cannot guarantee absolute security.</p>
 <hr>
 
 <div style="text-align: left;">
 <strong>Links To Other Sites</strong>
 </div>
 
-<p>This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by me. Therefore, I strongly advise you to review the Privacy Policy of these websites. I have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.</p>
+<p>The Service may include links to other sites. Clicking on a third-party link redirects users to that site. It is important to note that these external sites are not operated by MoleculAR. Users are strongly advised to review the Privacy Policy of these external websites, as MoleculAR has no control over, and assumes no responsibility for, their content, privacy policies, or practices.</p>
 <hr>
 
 <div style="text-align: left;">
 <strong>Children's Policy</strong>
 </div>
 
-<p>These Services do not address anyone under the age of 13. I do not knowingly collect personally identifiable information from children under 13 years of age. In the case I discover that a child under 13 has provided me with personal information, I immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact me so that I will be able to do necessary actions.</p>
+<p>The Service does not address individuals under the age of 13. MoleculAR does not knowingly collect personally identifiable information from children under 13 years of age. If such information is discovered, it is promptly deleted from our servers. Parents or guardians aware that a child under 13 has provided personal information are urged to contact MoleculAR to take necessary actions.</p>
 <hr>
 
 <div style="text-align: left;">
 <strong>Changes to This Privacy Policy</strong>
 </div>
 
-<p>I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page.</p>
+<p>MoleculAR may update the Privacy Policy periodically. Users are advised to review this page for any changes. Notification of changes will be made by posting the updated Privacy Policy on this page.</p>
 
-<p>This policy is effective as of <strong>2024-02-01</strong>.</p>
+<p>This policy is effective as of <strong>2024-FEB-12</strong>.</p>
 <hr>
 
 <div style="text-align: left;">
 <strong>Contact Us</strong>
 </div>
 
-<p>If you have any questions or suggestions about the Privacy Policy, contact us at <a href="mailto:chemar@uvic.ca">ChemAR</a>.</p>
+<p>For any questions or suggestions regarding the Privacy Policy, users are encouraged to contact MoleculAR at <a href="mailto:chemar@uvic.ca">ChemAR</a>.</p>
