@@ -44,6 +44,6 @@ The Privacy Policy for MoleculAR can be found <a href="https://chagunda.github.i
 <footer>
   <p>App development by <a href="https://www.linkedin.com/in/julia-levy-758893267/">Julia Levy</a>. Github repository by <a href="https://www.linkedin.com/in/ian-chagunda/">Ian C. Chagunda</a>.</p>
   <p>For feedback or questions, please email <a href="mailto:mcindoe@uvic.ca">Prof. Dr. J. Scott McIndoe</a> or visit <a href="https://web.uvic.ca/~mcindoe/">web.uvic.ca/~mcindoe</a>.</p>
-  <p>To learn more about this project visit <a href="https://doi.org/123.45.6789">https://doi.org/123.45.6789</a>.</p>
+  <p>To learn more about this project visit <a href="https://doi.org/10.1021/acs.jchemed.3c01045">DOI: 10.1021/acs.jchemed.3c01045</a>.</p>
 </footer>
 
