@@ -5,7 +5,7 @@
   You can use these QR codes in any learning capacity, whether you're a curious user looking to explore molecular geometry or an educator wishing to incorporate MoleculAR into your course syllabus.
   Here's a quick guide on how to download and use the app:
 </p>
-  <ul> <li>Step 1: Download the MoleculAR app from the <a href="https://apps.apple.com/ca/app/molecular/id1585592102">App Store</a> or <a href="https://play.google.com/store/apps/details?id=com.MolecularUVic.Molecular">Google Play Store*</a> on your smartphone or tablet device.</li>
+  <ul> <li>Step 1: Download the MoleculAR app from the <a href="https://apps.apple.com/ca/app/molecular/id1585592102">App Store</a> or <a href="https://play.google.com/store/apps/details?id=com.MolecularUVic.Molecular">Google Play Store</a> on your smartphone or tablet device.<p><strong>*</strong></li>
     <li>Step 2: Open the app and select "START" to begin scanning the QR codes.</li>
     <li>Step 3: Scan the QR code for the molecule or orbital you want to view.</li>
     <li>Step 4: Explore the 3D model that hovers over the QR Code. Rotate, zoom, and explore the structure from different angles.</li>
@@ -38,7 +38,7 @@ The Privacy Policy for MoleculAR can be found <a href="https://chagunda.github.i
 <p>Thank you for choosing MoleculAR! We welcome any feedback you may have on the app and its use in chemistry education. We hope that MoleculAR will be a valuable tool for educators and students alike.</p>
 <p>For any requests and suggestion for new molecules and structures to add to MoleculAR, please contact us at <a href="mailto:chemar@uvic.ca">ChemAR</a>.</p>
 
-<p><strong>NOTE: </strong>The Android version of MoleculAR is currently under redevelopment and testing, and not available in the Google Play Store. Please email <a href="mailto:chemar@uvic.ca">ChemAR</a> for access to the test version. [APR.17.2024]</p>
+<p><strong>*NOTE: </strong>The Android version of MoleculAR is available for download, but classified as "currently under redevelopment and testing" as we await full approval and release in the Google Play Store. Apple iOS version is fully released and available for downlooad. [MAY 07 2024]</p>
 
   <hr>
 
