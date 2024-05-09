@@ -21,7 +21,7 @@ Scan the QRCodes below to try the app!
 
 <p>
 <div style="text-align: center;">
-  <img src="MoleculAR.png" alt="MoleculAR User Interface" title="MoleculAR How-to" style="display: block; margin-left: auto; margin-right: auto; width: 50; box-shadow: 10 10 5 grey;">
+  <img src="Sample QRCodes.png" alt="Sample QRCodes" title="Sample QRCodes" style="display: block; margin-left: auto; margin-right: auto; width: 50; box-shadow: 10 10 5 grey;">
 </div>
 </p>
 
