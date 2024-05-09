@@ -34,6 +34,8 @@ The Privacy Policy for MoleculAR can be found <a href="https://chagunda.github.i
   <img src="MoleculAR.png" alt="MoleculAR User Interface" title="MoleculAR How-to" style="display: block; margin-left: auto; margin-right: auto; width: 50; box-shadow: 10 10 5 grey;">
 </div>
 </p>
+
+<p>
 <div style="text-align: center;">
 Download QRCodes library <a href="https://github.com/chagunda/moleculAR/raw/main/QRCodes.zip" class="centered-link">
     <span style="font-weight: bold; font-size: 1.5;">HERE</span>.
@@ -51,7 +53,7 @@ The Privacy Policy for MoleculAR can be found <a href="https://chagunda.github.i
     <span style="font-weight: bold; font-size: 1.5;">HERE</span>.
   </a>
 </div>
-
+</p>
 
 <p>Thank you for choosing MoleculAR! We welcome any feedback you may have on the app and its use in chemistry education. We hope that MoleculAR will be a valuable tool for educators and students alike.</p>
 <p>For any requests and suggestion for new molecules and structures to add to MoleculAR, please contact us at <a href="mailto:chemar@uvic.ca">ChemAR</a>.</p>
