@@ -54,7 +54,7 @@ The Privacy Policy for MoleculAR can be found <a href="https://chagunda.github.i
 <p>Thank you for choosing MoleculAR! We welcome any feedback you may have on the app and its use in chemistry education. We hope that MoleculAR will be a valuable tool for educators and students alike.</p>
 <p>For any requests and suggestion for new molecules and structures to add to MoleculAR, please contact us at <a href="mailto:chemar@uvic.ca">ChemAR</a>.</p>
 
-<p><strong>*NOTE: </strong>The Android version of MoleculAR is available for download, but classified as "currently under redevelopment and testing" as we await full approval and release in the Google Play Store. The Apple iOS version is fully released and available for downlooad. [MAY 07 2024]</p>
+<p><strong>*NOTE: </strong>The Android version of MoleculAR is available for download, but classified as "currently under redevelopment and testing" as we await full approval and release in the Google Play Store. The Apple iOS version is fully released and available for downlooad. [MAY 09 2024]</p>
 
   <hr>
 
