@@ -18,7 +18,7 @@
 </p>
 
 <div style="text-align: center;">
-To tyy the app, scan the QRCodes below!
+To try the app, scan the QRCodes below!
 </div>
 
 
