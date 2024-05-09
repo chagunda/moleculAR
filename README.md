@@ -19,6 +19,12 @@
 
 <p>
 <div style="text-align: center;">
+  <img src="MoleculAR.png" alt="MoleculAR User Interface" title="MoleculAR How-to" style="display: block; margin-left: auto; margin-right: auto; width: 50; box-shadow: 10 10 5 grey;">
+</div>
+</p>
+Scan the QRCodes below to try the app!
+<p>
+<div style="text-align: center;">
 Download QRCodes library <a href="https://github.com/chagunda/moleculAR/raw/main/QRCodes.zip" class="centered-link">
     <span style="font-weight: bold; font-size: 1.5;">HERE</span>.
   </a> 
