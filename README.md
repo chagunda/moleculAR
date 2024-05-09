@@ -31,7 +31,7 @@ To try the app, scan the QRCodes below!
 
 <p>
 <div style="text-align: center;">
-Download QRCodes library <a href="https://github.com/chagunda/moleculAR/raw/main/QRCodes.zip" class="centered-link">
+Download the QRCodes library <a href="https://github.com/chagunda/moleculAR/raw/main/QRCodes.zip" class="centered-link">
     <span style="font-weight: bold; font-size: 1.5;">HERE</span>.
   </a> 
 </div>
