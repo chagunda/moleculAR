@@ -17,7 +17,10 @@
 </div>
 </p>
 
+<div style="text-align: center;">
 Scan the QRCodes below to try the app!
+</div>
+
 
 <p>
 <div style="text-align: center;">
